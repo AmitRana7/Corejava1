@@ -5,8 +5,5 @@ public class lab004_many_MainMethod {
         System.out.println("Hello Java");
 // Program is not running without the main method
 
-        public static void main (){
-         System.out.println("Hello CoreJava");
-        }
     }
 }

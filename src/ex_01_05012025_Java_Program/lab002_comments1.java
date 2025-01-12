@@ -6,7 +6,8 @@ public class lab002_comments1 {
         /*
          * This is multiple line comments
          * */
-        System.out.println("comments Java");
+        System.out.println("comments Java world");
+
     }
 
 
