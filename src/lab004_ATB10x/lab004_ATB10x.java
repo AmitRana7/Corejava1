@@ -1,4 +1,4 @@
 package lab004_ATB10x;
 
-public class Java {abc
+public class lab004_ATB10x {
 }
