@@ -1,6 +1,6 @@
 package ex_04_23012025_Loops;
 
-public class lab009_Home_lec4 {
+public class lab009_Even_NumberValue {
     public static void main(String[] args) {
         int n = 50;
         for (int i=1; i<=n; i++){
