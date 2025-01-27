@@ -5,7 +5,7 @@ public class lab007_Table_condition {
         Scanner sc = new Scanner(System.in);
         System.out.  print("Enter the no.: ");
         int num = sc.nextInt();
-       System.out.println("Multiplication Table of: "  +num+"___");
+       System.out.println("Multiplication Table of: "  +num);
         for(int i=1; i<=10 ; i++ )
             System.out.println(num+ "*" +i+ "="+ (num*i));
     }
